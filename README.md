@@ -132,3 +132,15 @@ For evaluation on more benchmarks, we recommend integrating your model into [[VL
 ## Acknowledgement
 
 Our code is built on [LLaVA](https://github.com/haotian-liu/LLaVA),  [LlamaGen](https://github.com/FoundationVision/LlamaGen) and [Qwen2.5](https://github.com/QwenLM/Qwen3). Thanks for their efforts!
+
+## BibTeX
+
+```
+@article{li2025unifork,
+  title={UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation},
+  author={Li, Teng and Lu, Quanfeng and Zhao, Lirui and Li, Hao and Zhu, Xizhou and Qiao, Yu and Zhang, Jun and Shao, Wenqi},
+  journal={arXiv preprint arXiv:2506.17202},
+  year={2025}
+}
+```
+
